@@ -1,5 +1,5 @@
 #aryan-darvishzadeh
-#ostad : sarkar khanome fateme rafipour
+
 from tkinter import *
 import requests
 from translate import Translator
